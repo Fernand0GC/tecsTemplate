@@ -1,0 +1,5 @@
+{
+  "name": "Image Template Overlay Generator",
+  "description": "Upload an image, crop it to a square, and apply a predefined template overlay. A simple tool for quick image branding.",
+  "requestFramePermissions": []
+}
